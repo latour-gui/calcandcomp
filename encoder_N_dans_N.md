@@ -49,7 +49,8 @@
 ### Question 3
 
 > Pourquoi ne peut-on pas dire que L est énumérable ?
-> Le langage L est enumérable ssi il est semi-décidable. Puisqu'on ne précise pas qu'il est semi décidable, on ne peut pas affirmer qu'il est énumérable.
+
+Le langage L est enumérable ssi il est semi-décidable. Puisqu'on ne précise pas qu'il est semi décidable, on ne peut pas affirmer qu'il est énumérable.
 
 D'ailleurs s'il avait été "énumérable", il aurait été aussi "semi-décidable" et "récursivement énumérable", qui est un synonyme de "semi-décidable".
 
