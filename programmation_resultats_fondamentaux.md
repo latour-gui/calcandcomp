@@ -70,7 +70,7 @@
 >
 > La fonction sémantique d'un langage associe à un programme une fonction
 
-Attention à ne pas confondre la fonction sémantique **d'un langage** et la fonction sémentique **d'un programme de ce langage**
+Attention à ne pas confondre la fonction sémantique **d'un langage** et la fonction sémantique **d'un programme de ce langage**
 
 La fonction sémantique d'un langage est totale alors que celle d'un programme du langage est partielle.
 
