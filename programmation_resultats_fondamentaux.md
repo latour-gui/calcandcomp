@@ -76,15 +76,15 @@ La fonction sémantique d'un langage est totale alors que celle d'un programme d
 
 ### Question 3
 
-> Un interpréteur d'un langage M par un langage L est une fonction
+> Comment un interpréteur d'un langage M par un langage L n'est il pas une fonction partielle ?
 
-wtf it is not partielle ??
+ntm
 
 ### Question 4
 
-> Soit M et T deux langages de programmation et f une fonction tq ∥f(P)∥T = ∥P∥M pour tout P ∈ P_M. On appelle f
+> Comment ne plus confondre fonction d'interprétation et fonction de compilation ?
 
-Pourquoi est-ce que une fonction d'interprétation c'est pas bon ?
+ntm
 
 ### Question 7
 

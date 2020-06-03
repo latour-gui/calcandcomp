@@ -58,6 +58,12 @@
 
 > Comment est-ce possible de produire à l'aide du lamda calcul, un compilateur While alors que le lambda calcul ne possède pas dans son langage les éléments du langage du While ?
 
+Il faut partir du principe que, bien que le lambda calcul ne va pas "output" un programme while, il sera possible d'en simuler le comportement.
+
+Il est par exemple possible de définir, en lambda calcul, chacun des caractères du langage while d'une manière similaire à la définition des naturels.
+
+Dès lors on pourra considérer que ces nouvelles définitions nous permettent de produire un compilateur while en lambda calcul.
+
 ### Question 9
 
 Nous sommes en présence de ce qu'on appelle dans le domaine un "coup de pute".
