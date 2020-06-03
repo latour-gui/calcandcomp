@@ -10,15 +10,19 @@
 
 ## Modèle de calcul universel
 
-vtff
+Un modèle de calcul est considéré comme universel s'il est possible d'y calculer toutes les ofnctions calculables.
+
+On suppose q'un tel modèle de calcul existe grâce à la thèse de Church-Turing qui suppose que tout modèle de calcul raisonable définit le même ensemble de fonctions calculables.
 
 ## Fonction sémantique d'un langage
 
-waitwat
+La fonction sémantique d'un langage L = (P_L, D_L) est une fonction totale [[ . ]] : P_L -> (D_L -> D_L)
+
+On peut donc dire que la fonction sémantique d'un langage L est une fonction qui associe à chaque programme de L une fonction (partielle) définie sur D_L -> D_L
 
 ## Syntaxe concrête
 
-ntm
+On dit qu'un language L = (P_L, D_L) a une syntaxe concrète si P_L est inclu dans D_L
 
 ## Point fixe
 

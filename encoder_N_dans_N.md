@@ -46,6 +46,12 @@
 
 > Pourquoi ne peut-on pas dire que A\* est énumérable quand A^k est dénombrable ?
 
+On peut affirmer que A\* est dénombrable à partir du moment où A^k est dénombrable. En fait on peut même affirmer que A\* est dénombrable à partir du moment où A est dénombrable.
+
+Par contre, le fait qu'il existe une fonction bijective entre A\* et ℕ ne nous permet pas d'affirmer qu'elle est calculable.
+
+Pour qu'un ensemble soit dénombrable, il faut q'il existe une fonction bijective entre cet ensemble et l'ensemble des naturels, et que cette fonction soit calculable.
+
 ### Question 3
 
 > Pourquoi ne peut-on pas dire que L est énumérable ?
