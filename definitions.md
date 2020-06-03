@@ -5,6 +5,8 @@
   - [Fonction sémantique d'un langage](#fonction-sémantique-dun-langage)
   - [Syntaxe concrête](#syntaxe-concrête)
   - [Point fixe](#point-fixe)
+  - [NP](#np)
+  - [NP-hard != NP-complet](#np-hard--np-complet)
 
 ## Modèle de calcul universel
 
@@ -46,3 +48,19 @@ i.e.
 
 1. pour toute fonction de transformation de programme il existe un programme pour lequel cette fonction ne fait rien
 2. pour tout programme il existe une fonction de transformation telle que cette fonction ne fait rien sur ce programme
+
+## NP
+
+"Non-déterministe polynomial" et pas "non polynomial"
+
+## NP-hard != NP-complet
+
+si je résume intuitivement, j'aurais tendance à dire que
+
+NP-complet est consititué de quelques problèmes de NP tq tous les problèmes de NP peuvent être réduit polynomialement à l'un de ces langage.
+
+NP-hard est tel que chaque problème de NP peut être réduit polynomialement à un problème NP-hard.
+
+NP-hard != NP-complet car NP-complet ⊆ NP et NP ⊆ NP-hard.
+
+On sait que NP != NP-hard car il existe des problèmes

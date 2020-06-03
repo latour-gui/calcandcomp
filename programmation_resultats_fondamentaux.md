@@ -107,4 +107,6 @@ Pour moi, le fait qu'un programme (while) retourne "Hello World!" est une propri
 
 Dès lors le théorème 3.22 nous dit
 
-> Soit L un langage de programmation et A une propriété non-triviale et existentielle des programmes en L. Alors A est indécidable.
+"Soit L un langage de programmation et A une propriété non-triviale et existentielle des programmes en L. Alors A est indécidable."
+
+Mais en fait on peut considérer que les programmes While qui retournent "Hello world!" font partie d'un sous-ensemble des programmes While qui terminent pour une entrée donnée. Puisque l'ensemble des programmes While qui se terminent pour une entrée donnée est semi-décidable, ceux qui retournent "Hello world!" aussi.
